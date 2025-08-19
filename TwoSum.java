@@ -1,5 +1,5 @@
 import java.util.*;
-public class twosum{
+public class TwoSum{
 	public static void main(String args[]){
 	int nums[]={6,3,4}; //Declaring an array beforehand
 	int target=9;
